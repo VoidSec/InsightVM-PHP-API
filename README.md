@@ -24,7 +24,3 @@ They are not supposed to be pretty, just usefull
 | ds | skipped, disabled: A check was not performed because it was disabled in the scan template.|
 | ov | overridden, version check: A check for a vulnerability that would ordinarily be positive because the version of the target service or application is associated with known vulnerabilities was negative due to information from other checks.|
 | nt | no tests: There were no checks to perform.|
-
-
-  ![Preview](https://github.com/VoidSec/InsightVM-PHP-API/blob/master/pb_screenshot.png)
-  ![Preview](https://github.com/VoidSec/InsightVM-PHP-API/blob/master/parser_screenshot.png)
