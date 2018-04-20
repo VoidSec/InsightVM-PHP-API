@@ -26,5 +26,5 @@ They are not supposed to be pretty, just usefull
 | nt | no tests: There were no checks to perform.|
 
 
-  ![Preview](https://github.com/VoidSec/InsightVM-PHP-API/blob/master/parser_screenshot.png)
+  ![Preview](https://github.com/VoidSec/InsightVM-PHP-API/blob/master/pb_screenshot.png)
   ![Preview](https://github.com/VoidSec/InsightVM-PHP-API/blob/master/parser_screenshot.png)
